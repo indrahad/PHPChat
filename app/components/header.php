@@ -45,7 +45,13 @@
                                 <a href="#">
                                     <span style="color: white;">Profile</span> 
                                     <i style="color: white;" class="bi bi-chevron-right"></i></a>
-                                    <ul>
+				    <ul>
+					<li>
+                                            <a href="/user/" class="btn btn-purple m-2 rounded text-white  justify-content-start">
+                                                <i class="bi bi-chat-right-text"></i>
+                                                <span class="px-4">Indra</span>
+                                            </a>
+                                        </li>
                                         <li>
                                             <a href="/user/" class="btn btn-purple m-2 rounded text-white  justify-content-start">
                                                 <i class="bi bi-chat-right-text"></i>
